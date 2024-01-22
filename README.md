@@ -7,3 +7,7 @@ Currently watching freeCodeCamp's 'Git and GitHub for Beginners - Crash Course' 
 ### Learning markdown atm
 
 #### Testing 2.0
+
+Testing 2.1
+
+GitHub Desktop makes this a lot easier. I think I can actually this 1001 step :-)
