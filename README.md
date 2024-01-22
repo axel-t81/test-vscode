@@ -11,3 +11,4 @@ Currently watching freeCodeCamp's 'Git and GitHub for Beginners - Crash Course' 
 Testing 2.1
 
 GitHub Desktop makes this a lot easier. I think I can actually do this 1001 step!
+...I guess not all is lost after earlier tonight learning a hard lesson with git clean -fdx, lol.
