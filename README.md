@@ -10,4 +10,4 @@ Currently watching freeCodeCamp's 'Git and GitHub for Beginners - Crash Course' 
 
 Testing 2.1
 
-GitHub Desktop makes this a lot easier. I think I can actually this 1001 step :-)
+GitHub Desktop makes this a lot easier. I think I can actually do this 1001 step!
